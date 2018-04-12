@@ -1,0 +1,10 @@
+C:\Users\ms-a-\github\Sample8\bin\Debug\netcoreapp2.0\Sample8.deps.json
+C:\Users\ms-a-\github\Sample8\bin\Debug\netcoreapp2.0\Sample8.runtimeconfig.json
+C:\Users\ms-a-\github\Sample8\bin\Debug\netcoreapp2.0\Sample8.runtimeconfig.dev.json
+C:\Users\ms-a-\github\Sample8\bin\Debug\netcoreapp2.0\Sample8.dll
+C:\Users\ms-a-\github\Sample8\bin\Debug\netcoreapp2.0\Sample8.pdb
+C:\Users\ms-a-\github\Sample8\obj\Debug\netcoreapp2.0\Sample8.csproj.CoreCompileInputs.cache
+C:\Users\ms-a-\github\Sample8\obj\Debug\netcoreapp2.0\Sample8.AssemblyInfoInputs.cache
+C:\Users\ms-a-\github\Sample8\obj\Debug\netcoreapp2.0\Sample8.AssemblyInfo.cs
+C:\Users\ms-a-\github\Sample8\obj\Debug\netcoreapp2.0\Sample8.dll
+C:\Users\ms-a-\github\Sample8\obj\Debug\netcoreapp2.0\Sample8.pdb
